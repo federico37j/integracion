@@ -1,10 +1,10 @@
 {
     "type": "mysql",
-    "host": "remotemysql.com",
+    "host": "localhost",
     "port": 3306,
-    "username": "bI549X3ycZ",
-    "password": "cHqSgEGPuL",
-    "database": "bI549X3ycZ",
+    "username": "root",
+    "password": "1234",
+    "database": "FACTURACION",
     "entities": [
         "dist/**/**.entity{.ts,.js}"
     ],
