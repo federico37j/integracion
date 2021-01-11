@@ -2,9 +2,9 @@
     "type": "mysql",
     "host": "remotemysql.com",
     "port": 3306,
-    "username": "bI549X3ycZ",
-    "password": "cHqSgEGPuL",
-    "database": "bI549X3ycZ",
+    "username": "CgSlzhmuZf",
+    "password": "Q9ALkBYtp6",
+    "database": "CgSlzhmuZf",
     "entities": [
         "dist/**/**.entity{.ts,.js}"
     ],
