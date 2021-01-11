@@ -1,7 +1,7 @@
 import { Cliente } from 'src/cliente/cliente.entity';
 import { Column, Entity, JoinColumn, ManyToOne, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('E01_FACTURA')
+@Entity('FACTURA')
 export class Factura {
 
     @PrimaryGeneratedColumn()
